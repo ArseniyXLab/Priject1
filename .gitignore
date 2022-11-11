@@ -1,0 +1,7 @@
+﻿Library
+UserSettings
+Logs
+.vscode
+Unity.CollabProxy.Editor.csproj
+Unity.EditorCoroutines.Editor.csproj
+*.csproj
